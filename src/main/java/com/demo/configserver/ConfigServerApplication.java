@@ -10,7 +10,7 @@ public class ConfigServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ConfigServerApplication.class, args);
-		// access it through postman or browser via uri : http://localhost:1111/application/default
+		// access it through postman or browser via uri : http://localhost:8888/application/default
 	}
 
 }
